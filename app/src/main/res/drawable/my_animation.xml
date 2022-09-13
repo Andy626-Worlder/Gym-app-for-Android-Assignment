@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--图片动画-->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/qq01" android:duration="450"/>
+    <item android:drawable="@drawable/qq02" android:duration="450"/>
+    <item android:drawable="@drawable/qq03" android:duration="450"/>
+    <item android:drawable="@drawable/qq04" android:duration="450"/>
+</animation-list>

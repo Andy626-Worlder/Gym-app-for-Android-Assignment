@@ -1,0 +1,1 @@
+Help -> Register, browse to select the license file, or drop the license file on this form. Click "Register".
